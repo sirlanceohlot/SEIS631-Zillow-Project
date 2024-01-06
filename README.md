@@ -13,3 +13,5 @@ We will also provide our investor with market trends,sale and inventory listing 
 Our Team of analysts has selected a tri-state region in the middle of the eastern part of the United States for our analysis, the markets we have selected are Kentucky, North Carolina & Tennessee. 
 
 The analysis is broken out into sections for each state within the tri-state region with a summarization at the bottom with our recommendations. 
+
+Made with ❤️ for Data Science by Yvette Iradukunda, Jihun Moon & Lance McKinnon
