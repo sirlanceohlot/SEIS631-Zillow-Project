@@ -1,4 +1,4 @@
-# SEIS631-Zillow-Project
+# Real Estate Investment Project
 
 A real estate investor who would like to invest $7.5M dollars in the real estate market. 
 
